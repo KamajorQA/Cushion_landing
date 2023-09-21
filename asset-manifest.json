@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Cushion_landing/static/css/main.dd8075ff.css",
+    "main.js": "/Cushion_landing/static/js/main.a505d8d7.js",
+    "static/media/1.png": "/Cushion_landing/static/media/1.79db4c134e4a76dcc1f0.png",
+    "static/media/orange.png": "/Cushion_landing/static/media/orange.8205241f54b2fed29c91.png",
+    "static/media/yellow.png": "/Cushion_landing/static/media/yellow.92e05e4972d9c7a31acf.png",
+    "static/media/pink.png": "/Cushion_landing/static/media/pink.0f675dab3b78fcd5ad69.png",
+    "static/media/Black.png": "/Cushion_landing/static/media/Black.82fada0f6d8212affe85.png",
+    "static/media/gothampro_bold.ttf": "/Cushion_landing/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_medium.ttf": "/Cushion_landing/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/Cushion_landing/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "index.html": "/Cushion_landing/index.html",
+    "main.dd8075ff.css.map": "/Cushion_landing/static/css/main.dd8075ff.css.map",
+    "main.a505d8d7.js.map": "/Cushion_landing/static/js/main.a505d8d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8075ff.css",
+    "static/js/main.a505d8d7.js"
+  ]
+}
