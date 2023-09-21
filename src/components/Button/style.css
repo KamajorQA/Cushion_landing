@@ -1,0 +1,17 @@
+.button-container {
+  height: 50px;
+  width: 358px;
+  margin: 0 1px;
+  font-family: 'Gotham Pro Medium', Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #37d997;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-container:hover {
+  background-color: #37d952;
+}

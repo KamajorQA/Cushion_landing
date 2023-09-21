@@ -1,0 +1,36 @@
+.rating-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  mix-blend-mode: multiply;
+  position: relative;
+}
+
+.rating-stars {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.stars-instance {
+  height: 13px;
+  position: relative;
+  width: 14px;
+}
+
+.rating-feedback {
+  color: #2c2b31;
+  font-family: 'Gotham Pro', Helvetica;
+  font-size: 15.3px;
+  font-weight: 400;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 30px;
+}

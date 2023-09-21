@@ -1,0 +1,49 @@
+.App {
+  color: #fff;
+  background-color: seagreen;
+  padding: 40px;
+}
+
+.countdown-container {
+  align-items: center;
+  background-color: #f19d2f;
+  border-radius: 7.1px;
+  display: flex;
+  flex-direction: column;
+  gap: 10.14px;
+  height: 58px;
+  justify-content: center;
+  left: 13px;
+  overflow: hidden;
+  padding: 9px 7.1px;
+  position: absolute;
+  top: 209px;
+  width: 103px;
+}
+
+.countdown-offer {
+  color: #ffffff;
+  font-family: 'Gotham Pro Bold', Helvetica;
+  font-size: 10.6px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.93px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.countdown-timer {
+  color: #ffffff;
+  font-family: 'Gotham Pro Bold', Helvetica;
+  font-size: 21.3px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.1px;
+  margin-right: -0.1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
